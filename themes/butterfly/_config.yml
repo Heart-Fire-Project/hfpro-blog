@@ -178,7 +178,7 @@ post_edit:
   enable: tue
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/Heart-Fire-Projet/hfpro-blog/edit/main/source/
+  url: https://github.com/Heart-Fire-Project/hfpro-blog/edit/main/source/
 
 # Related Articles
 related_post:
