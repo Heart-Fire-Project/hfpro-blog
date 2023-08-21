@@ -1,0 +1,15 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://hexo.io/logo.svg
+      descr: 快速、简单且强大的网志框架
+
+- class_name: 网站
+  class_desc: 
+  link_list:
+    - name: 心火计划
+      link: https://hfpro.top/
+      avatar: https://hfpro.top/assets/img/logo.png
+      descr: 主站点

@@ -231,10 +231,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Heart-Fire-Project
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎下载游玩心火计划的作品，如果您遇到任何问题，可以通过电子邮件或 QQ 群联系我们。
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
