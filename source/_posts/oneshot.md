@@ -1,8 +1,16 @@
 ---
 title: 新地图发布：Oneshot
 date: 2023-08-21
-tags: 地图, 多人, 射击, PvP, 1.19, 授权翻译, 授权搬运
-categories: 地图
+tags:
+- 地图
+- 多人
+- 射击
+- PvP
+- 1.19
+- 授权翻译
+- 授权搬运
+categories:
+- 地图
 ---
 
 # 地图信息
