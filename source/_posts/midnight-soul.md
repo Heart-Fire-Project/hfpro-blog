@@ -9,7 +9,7 @@ tags:
 - "1.20"
 categories: 
 - 地图
-top_image: https://pic1.afdiancdn.com/user/329c4404b01811eca09b52540025c377/common/6406d94aad0c14e6fbc7b793501dd13e_w2560_h777_s1640.png
+top_img: https://pic1.afdiancdn.com/user/329c4404b01811eca09b52540025c377/common/6406d94aad0c14e6fbc7b793501dd13e_w2560_h777_s1640.png
 ---
 
 # 抢先测试
