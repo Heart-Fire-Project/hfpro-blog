@@ -80,6 +80,14 @@ categories:
 | 群老婆列表 | 查看本群群友婚姻状况                 |
 | 老婆列表  | 查看所有人婚姻状况，不在本群的将显示 QQ 号      |
 
+# 功能性
+
+## GitHub Helper
+
+> 此功能由 [gnuf0rce/github-helper](https://github.com/gnuf0rce/github-helper) 提供。
+
+请查阅 [此插件的帮助文档](https://github.com/gnuf0rce/github-helper#%E6%8C%87%E4%BB%A4)。
+
 # 游戏相关
 
 ## Minecraft
@@ -96,4 +104,3 @@ categories:
 | /mcadd [服务器名称] [服务器地址] | 将指定地址的服务器绑定到指定名称上。<br />各个群聊绑定的服务器相互独立。 | 仅 **管理员** 可用。                                         |
 | /mcdel [服务器名称]              | 删除指定名称的服务器。                                       | 仅 **管理员** 可用。<br />仅在绑定了服务器的情况下可用。     |
 | /mcrec [服务器地址] <true/false> | 启动/停止对于指定服务器的在线人数记录。<br />仅有启用了在线人数记录的服务器才会在查询结果图片中附加历史在线人数信息。 | 仅 **管理员** 可用。<br />true 为开启，false 为关闭。        |
-
